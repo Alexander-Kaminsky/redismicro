@@ -1,2 +1,3 @@
 # redis_microservice_example
-this is an example of how to use redis
+
+simpleified example with both redis and normal implementation to compare between them
