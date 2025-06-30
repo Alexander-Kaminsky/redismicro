@@ -1,5 +1,5 @@
 # Redis Microservice Example
-This repository contains a simple microservice example built with Spring Boot, demonstrating interaction with Redis and PostgreSQL. It includes integration tests to verify functionality using both data stores.
+This repository contains a simple microservice examples built with Spring Boot, demonstrating interaction with Redis and PostgreSQL. It includes integration tests to verify functionality using both data stores.
 
 # 🚀 Prerequisites
 Docker must be installed and running.
